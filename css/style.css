@@ -1,0 +1,8 @@
+img{
+    height: 200px;
+}
+body{
+    background-image: url(../img/nature-background-2560x1440.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
